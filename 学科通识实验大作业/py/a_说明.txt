@@ -1,0 +1,6 @@
+只需要运行	    新rgb图.py    以及    新灰度图.py     就好
+
+我电脑的编译其在运行c++文件时不需要 include<cmath.h> 之类常用的头文件，并不清楚python会不会这样
+
+python版本：Python 3.12.3
+需要opencv库
